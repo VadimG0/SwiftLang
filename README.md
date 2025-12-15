@@ -158,7 +158,7 @@ The tests are organized to cover:
 
 
 ## Documentation
-[Language Tutorial](SwiftLang_Language_Tutorial.pdf)
+[Language Tutorial](docs/SwiftLang_Language_Tutorial.pdf)
 
 ---
 
