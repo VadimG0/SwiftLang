@@ -157,6 +157,8 @@ The tests are organized to cover:
 - The command-line interface in `src/main.py` (usage, missing file, successful run)  
 
 
+## Documentation
+[Language Tutorial](SwiftLang_Language_Tutorial.pdf)
 
 ---
 
