@@ -159,7 +159,10 @@ The tests are organized to cover:
 
 ## Documentation
 [Language Tutorial](docs/SwiftLang_Language_Tutorial.pdf)
+
 [Language Reference Manual](docs/SwiftLang_Language_Reference_Manual.pdf)
+
+[Conclusions-Post Mortem Documentation](docs/Conclusions.pdf)
 
 ---
 
